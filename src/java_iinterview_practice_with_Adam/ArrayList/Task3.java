@@ -13,6 +13,7 @@ public class Task3 {
 
         System.out.println(animalList(list, 'd'));
 
+
     }
 
     public static List<String> animalList(List<String> list, char ch) {
