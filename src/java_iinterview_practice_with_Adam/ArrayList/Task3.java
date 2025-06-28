@@ -8,6 +8,8 @@ public class Task3 {
     public static void main(String[] args) {
 
 
+
+
         List<String> list = new ArrayList<>();
         list.addAll(List.of("Dog", "duck", "cat", "Deer"));
 
